@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: #222;
+    color: #efefef;
+
+    font-family: ;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+}
+
+/*---------------------------------------------------------------*/
+
+/* -------------------------------------------------------------------------- */
+/*                                   SERVIZI                                  */
+/* -------------------------------------------------------------------------- */
+
+
+.mainHeader {
+    display: flex
+    justify-content:
+}
+
+.logo {
+
+}
+
+.menu {
+    list-style-type: none;
+}

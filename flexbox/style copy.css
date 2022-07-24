@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+.box {
+    font-size: 2rem;
+    height: 100px;
+    width: 100px;
+}
+
+.container {
+    display: flex;
+    
+
+    justify-content: flex-end;
+
+    align-items: center;
+
+    height: 600px;
+    width: 70%;
+    margin: auto;
+    background: grey;
+}
+
+#box1 {
+    background: #dd2e02;
+}
+
+#box2 {
+    background: #fbff19;
+}
+
+#box3 {
+    background: #2f9600;
+}
+
+#box4 {
+    background: #212121;
+}

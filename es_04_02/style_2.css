@@ -1,0 +1,18 @@
+.contenitore {
+    background: #999;
+
+    width: 900px;
+    
+}
+
+.verde {
+
+    background: green;
+    height: 400px;
+}
+
+.giallo {
+    background: yellow;
+    width: 200px;
+    height: 200px;
+}

@@ -1,0 +1,54 @@
+body {
+    background: #302f2f;
+}
+
+.intro {
+    color: white;
+}
+
+.d_3bo {
+  color: rgb(145, 119, 5);
+   
+}
+
+.ufficiale {
+    color:aqua;
+  
+}
+
+.darth {
+    color: rgb(230, 11, 11);
+}
+
+.ribelle {
+    color: rgb(214, 77, 180);
+}
+
+.soldato {
+    color: rgb(22, 178, 180);
+}
+
+.soldato2 {
+    color: rgb(56, 116, 64);
+}
+
+
+.capo_pilota {
+    color: rgb(173, 175, 18);
+}
+
+.capitano {
+    color: chartreuse;
+}
+
+.leila {
+    color: rgb(189, 21, 138);
+}
+
+.comandante {
+    color: rgb(31, 19, 194);
+}
+
+.ufficiale2 {
+    color: rgb(119, 241, 103);
+}

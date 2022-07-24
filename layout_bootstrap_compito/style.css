@@ -1,0 +1,56 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.logo {
+    width: 10rem;
+}
+
+img {
+    max-width: 100%;
+    height:auto;
+    width: auto;
+    border-bottom: 3rem;
+}
+
+#banner{
+    width: 100%;
+}
+
+h2, h5{
+    font-family: 'Pacifico', cursive;
+    color: #4c2f50;
+   
+}
+
+.back-card {
+    background-image: linear-gradient(to bottom, #edf1e3, #e8c0eb, #ddaee2, #d29bda, #c789d1);
+}
+
+.footer{
+    background-color: rgb(120, 102, 224);
+}
+
+.icon {
+    color: white;
+}
+
+.open-sans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.h1 {
+    font-size: 5rem;
+    font-family: 'Pacifico', cursive;
+    color: white;
+    
+}
+
+@media (max-width: 900px) {
+    .h1 {
+        font-size: xx-large;
+        font-family: 'Pacifico', cursive;
+        color: white;
+        
+    }
+}

@@ -1,0 +1,108 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background: rgb(75, 75, 75);
+    color: #2c2828;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+
+
+#mainHeader {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    width: 90%;
+    margin: 0 auto;
+
+}
+
+.logo img {
+    width: 5rem;
+    height: auto;
+}
+
+.mainNav ul{
+list-style-type: none;
+margin: 0;
+padding: 0;
+display: flex;
+}
+
+.mainNav li {
+    padding:0.25rem 1.5rem;
+}
+
+#hero img {
+    width: 100%;
+    height: auto;
+}
+
+
+#news {
+    display: flex;
+    flex-wrap: wrap;
+
+    padding: 4rem 0;
+}
+
+.newBox {
+    width: 100%;
+    
+}
+
+#servizi {
+    padding-top: 4rem;
+    padding-bottom: 4rem;
+}
+
+.serviziIcon {
+    font-size: 8rem;
+    text-align: center;
+
+}
+
+footer {
+    text-align: center;
+    background: #322828;
+    color: white;
+
+    padding: 4rem 0;
+}
+
+@media (min-width:992px){
+    
+    .newBox {
+        width: 33%;
+        
+    }
+    
+    #servizi{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .serviziBox {
+        width: 50%;
+        display: flex;
+        align-items: center;
+
+    }
+
+    .serviziText {
+        text-align: left;
+    }
+
+    .galleryItem {
+        width: 25%;
+    }
+    
+}
